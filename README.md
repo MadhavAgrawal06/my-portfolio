@@ -5,7 +5,8 @@
 Welcome to the repository of my personal portfolio website! This responsive single-page application is built to showcase my projects, technical skills, and professional journey as a Software Engineer / Frontend Developer.
 
 ## 🚀 Live Demo
-🔗 https://madhavagrawal-dev.netlify.app/
+[View Live Demo](https://madhavagrawal-dev.netlify.app/)
+
 ---
 
 ## 🛠️ Tech Stack
