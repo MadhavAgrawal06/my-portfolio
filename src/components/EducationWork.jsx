@@ -119,7 +119,7 @@ const EducationWork = () => {
                         <div className="d-flex align-items-center">
                              <span style={{color:'#64ffda', fontSize:'1.2rem'}} className="me-2">▹</span > 
                              Java Programming - Great Learning
-                             <img className="mx-1"src="src\Images\resize.png" height="15px" width="15px" alt="" />
+                             <img className="mx-1"src="/images/resize.png" height="15px" width="15px" alt="" />
                         </div>
                         </a>
                         
@@ -127,7 +127,7 @@ const EducationWork = () => {
                         <div className="d-flex align-items-center">
                              <span style={{color:'#64ffda', fontSize:'1.2rem'}} className="me-2">▹</span> 
                              Programming with Javascript - Coursera
-                             <img className="mx-1" src="src\Images\resize.png" height="15px" width="15px" alt="" />
+                             <img className="mx-1" src="/images/resize.png" height="15px" width="15px" alt="" />
                         </div>
                         </a>
 
@@ -139,7 +139,7 @@ const EducationWork = () => {
                         <div className="d-flex align-items-center">
                              <span style={{color:'#64ffda', fontSize:'1.2rem'}} className="me-2">▹</span> 
                              SQLite Made Easy - Udemy
-                             <img className="mx-1"src="src\Images\resize.png" height="15px" width="15px" alt="" />
+                             <img className="mx-1"src="/images/resize.png" height="15px" width="15px" alt="" />
                         </div>
                         </a>
                         
@@ -147,7 +147,7 @@ const EducationWork = () => {
                         <div className="d-flex align-items-center">
                              <span style={{color:'#64ffda', fontSize:'1.2rem'}} className="me-2">▹</span> 
                              Free AWS Course - Intellipaat
-                             <img className="mx-1"src="src\Images\resize.png" height="15px" width="15px" alt="" />
+                             <img className="mx-1"src="/images/resize.png" height="15px" width="15px" alt="" />
                         </div>
                         </a>
 
