@@ -16,7 +16,7 @@ const Hero = () => {
             Focused on learning, growth, and writing better code every day.
           </p>
           <p className="text-white">
-            <img src="src/Images/location.png" width="25px" height="25px" alt="" /> Bengaluru, Karnataka
+            <img src="/images/location.png" width="25px" height="25px" alt="" /> Bengaluru, Karnataka
           </p>
           
           <div className="d-flex gap-1">
@@ -26,20 +26,20 @@ const Hero = () => {
               rel="noopener noreferrer"
             >
               <button className="btn btn-custom">
-                Resume <img src="src/Images/resize.png" width="20px" height="20px" alt="" />
+                Resume <img src="/images/resize.png" width="20px" height="20px" alt="" />
               </button>
             </a>
 
             <Link to="/contact">
               <button className="btn btn-custom ">
-                Contact Me <img src="src/Images/contact.png" width="20px" height="20px" alt="" />
+                Contact Me <img src="/images/contact.png" width="20px" height="20px" alt="" />
               </button>
             </Link>
           </div>
         </div>
         
         <div className="col-md-5 text-center">
-          <img src="src\Images\hero.png" alt="Hero" className="img-fluid" />
+          <img src="/images/hero.png" alt="Hero" className="img-fluid" />
         </div>
       </div>
     </section>

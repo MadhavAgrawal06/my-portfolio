@@ -5,7 +5,7 @@
 Welcome to the repository of my personal portfolio website! This responsive single-page application is built to showcase my projects, technical skills, and professional journey as a Software Engineer / Frontend Developer.
 
 ## 🚀 Live Demo
-**[Insert Your Live Link Here]** *(Example: https://madhav-portfolio.netlify.app)*
+**[[Insert Your Live Link Here](https://madhavagrawal-dev.netlify.app/)]** 
 
 ---
 
@@ -47,12 +47,12 @@ If you want to clone and run this project on your local machine, follow these st
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/MadhavAgrawal06/your-repo-name.git](https://github.com/MadhavAgrawal06/your-repo-name.git)
+    git clone [https://github.com/MadhavAgrawal06/my-portfolio.git](https://github.com/MadhavAgrawal06/my-portfolio.git)
     ```
 
 2.  **Navigate to the project folder:**
     ```bash
-    cd your-repo-name
+    cd my-portfolio
     ```
 
 3.  **Install dependencies:**
