@@ -10,9 +10,9 @@ const Hero = () => {
           <h1 className="display-3 fw-bold text-white">
             It's Madhav Agrawal <span style={{ color: '#64ffda' }}></span>
           </h1>
-          <h3 className="mb-4">Software Engineer / Frontend Developer</h3>
+          <h3 className="mb-4">Full Stack Developer / Software Engineer</h3>
           <p className="mb-3 w-75">
-            Turning ideas into clean, functional web experiences. <br />
+            Specializing in Java, Spring Boot, and React.js to build scalable, end-to-end solutions. <br />
             Focused on learning, growth, and writing better code every day.
           </p>
           <p className="text-white">
@@ -21,7 +21,7 @@ const Hero = () => {
           
           <div className="d-flex gap-1">
             <a 
-              href="https://drive.google.com/file/d/1GK99VcRYMr8ShHrAFA0v0sd3h4O-BWWE/view?usp=drive_link" 
+              href="https://drive.google.com/file/d/184LrMNFD3gT8hRJJqYKcwG-jX4Rt6rED/view?usp=sharing" 
               target="_blank" 
               rel="noopener noreferrer"
             >

@@ -26,10 +26,13 @@ const AboutAndSkills = () => {
             <span style={{color:'#64ffda'}}></span> About Me
           </h3>
           <p className="text-secondary" style={{ lineHeight: '1.7' }}>
-            I’m an entry-level Software Engineer with a strong interest in building clean, responsive, and user-friendly web applications. I have hands-on experience working with HTML, CSS, JavaScript, React.js, and Bootstrap, and a solid foundation in Java, MySQL, and object-oriented programming. 
+            I am a Full Stack Developer specializing in enterprise-grade applications using Java, Spring Boot, and React.js.
+          </p>
+          <p className="text-secondary  " style={{ lineHeight: '1.7' }}>
+            I bridge the gap between robust backend logic and intuitive frontends. With expertise in MySQL, JDBC, and REST APIs, I focus on building secure, scalable systems and writing clean, maintainable code rooted in OOP principles. I am dedicated to solving complex architectural challenges through the full development lifecycle.
           </p>
           <p className="text-secondary" style={{ lineHeight: '1.7' }}>
-            I’m passionate about problem-solving and writing clean, maintainable code, and I continuously work on improving my technical and logical skills. As a fresher, I’m eager to learn from experienced developers, contribute to team-driven projects, and grow into a well-rounded software engineer in a professional environment.
+            As a fresher, I’m eager to learn from experienced developers, contribute to team-driven projects, and grow into a well-rounded software engineer in a professional environment.
           </p>
         </div>
 
@@ -66,16 +69,16 @@ const AboutAndSkills = () => {
                 </div>
               </div>
 
-               <div className="col-md-6">
+              <div className="col-md-6">
                  <div className="p-4" style={cardStyle}>
                    <h5 className="text-white mb-3" style={{ fontSize: '1rem', borderBottom:'1px solid #233554', paddingBottom:'10px' }}>
-                     <span className="me-2">🛠️</span> Tools
+                     <span className="me-2"><img width="20px" height="20px" src="https://img.icons8.com/color/48/code.png" alt="code"/></span> Backend
                    </h5>
                    <div className="d-flex flex-wrap gap-2">
-                      <span style={tagStyle}>Git & GitHub <i class="devicon-git-plain colored"></i></span>
-                      <span style={tagStyle}>AWS  <i class=" devicon-amazonwebservices-plain-wordmark colored " ></i></span>
-                      <span style={tagStyle}>Netlify <i class="devicon-netlify-plain colored"></i></span>
-                      <span style={tagStyle}>VS Code <i class="devicon-vscode-plain colored"></i></span>
+                      <span style={tagStyle}>Spring Boot  <img width="17px" height="17px" src="https://img.icons8.com/officel/80/spring-logo.png" alt="spring-logo"/></span>
+                      <span style={tagStyle}>JDBC <img width="17px" height="17px" src="https://img.icons8.com/officel/80/data-configuration.png" alt="data-configuration"/></span>
+                      <span style={tagStyle}>REST APIs 🌐</span>
+                      <span style={tagStyle}>MySQL  <i class="devicon-mysql-original colored"></i> </span>
                    </div>
                 </div>
               </div>
@@ -83,13 +86,13 @@ const AboutAndSkills = () => {
               <div className="col-md-6">
                  <div className="p-4" style={cardStyle}>
                    <h5 className="text-white mb-3" style={{ fontSize: '1rem', borderBottom:'1px solid #233554', paddingBottom:'10px' }}>
-                     <span className="me-2">⚡</span> Other
+                     <span className="me-2">🛠️</span> Tools
                    </h5>
                    <div className="d-flex flex-wrap gap-2">
-                      <span style={tagStyle}>MySQL <i class="devicon-mysql-original colored"></i></span>
-                      <span style={tagStyle}>REST APIs 🔗</span>
-                      <span style={tagStyle}>DSA 🧠</span>
-                      <span style={tagStyle}>OOP 🧱</span>
+                      <span style={tagStyle}>Git & GitHub <i class="devicon-git-plain colored"></i></span>
+                      <span style={tagStyle}>IntelliJ <i class="devicon-intellij-plain colored"></i></span>
+                      <span style={tagStyle}>Netlify <i class="devicon-netlify-plain colored"></i></span>
+                      <span style={tagStyle}>VS Code <i class="devicon-vscode-plain colored"></i></span>
                    </div>
                 </div>
               </div>

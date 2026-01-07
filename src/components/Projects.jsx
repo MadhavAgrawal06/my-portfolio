@@ -4,24 +4,33 @@ const Projects = () => {
   const projectList = [
     {
       id: 1,
+      title: "Student Management System",
+      description: "Full-stack CRUD app using a Spring Boot REST API and MySQL to manage student records, integrated with a responsive React.js UI",
+      tech: ["Java", "Spring Boot", "React.js", "JavaScript", "MySQL", "JDBC"],
+      image: "/images/sms.png",
+      liveLink: "https://fullstack-studentdb-madhav.netlify.app/",
+      codeLink: "https://github.com/MadhavAgrawal06/Student-Management-System-Backend"
+    },
+    {
+      id: 2,
       title: "NewsNinja App",
-      description: "A real-time news aggregation app using React.js and NewsAPI. Features infinite scroll, category filtering.",
+      description: "Built a modern news web application using React.js and NewsAPI to fetch real-time headlines across categories like Technology, Sports, and Business.",
       tech: ["React.js", "Bootstrap", "REST API"],
       image: "/images/newsninja.png", 
       liveLink: "https://github.com/MadhavAgrawal06/NewsNinja-React", 
       codeLink: "https://github.com/MadhavAgrawal06/NewsNinja-React"  
     },
     {
-      id: 2,
+      id: 3,
       title: "NotesStack",
-      description: "Collaborative notes-sharing platform. Features categorized navigation and Google Drive integration.",
+      description: "NotesStack is a web-based academic resource hub built as my final year project.It enables B.Tech students to easily access semester-wise study notes and previous year question papers in one place.",
       tech: ["HTML/CSS", "JavaScript", "Bootstrap"],
       image: "/images/notesstack.png",
       liveLink: "https://notesstacks.netlify.app/",
       codeLink: "https://github.com/MadhavAgrawal06/NotesStack"
     },
     {
-      id: 3,
+      id: 4,
       title: "Weather Dashboard",
       description: "Dynamic weather app. Fetches real-time data from public APIs with dynamic background changes.",
       tech: ["React.js", "API Integration", "CSS3"],
@@ -30,22 +39,13 @@ const Projects = () => {
       codeLink: "https://github.com/MadhavAgrawal06/Weather-Now"
     },
     {
-      id: 4,
+      id: 5,
       title: "Java To-Do List",
       description: "A simple Java console-based To-Do List app that lets users add, view, complete, and delete tasks — built using Object-Oriented Programming and ArrayList.",
       tech: ["Java", "OOP", "Collections"],
       image: "/images/todo.png",
       liveLink: null, // <--- CHANGED TO NULL (No Live Demo)
       codeLink: "https://github.com/MadhavAgrawal06/ToDoListApp"
-    },
-    {
-      id: 5,
-      title: "TextUtils",
-      description: "TextUtils is a fast and responsive web app that allows users to analyze and manipulate text in multiple useful ways — right from their browser.",
-      tech: ["React.js", "Bootstrap", "CSS","React Router"],
-      image: "/images/textutils.png",
-      liveLink: "https://textutils-tool-react.netlify.app/",
-      codeLink: "https://github.com/MadhavAgrawal06/TextUtils-React"
     },
     {
       id: 6,
