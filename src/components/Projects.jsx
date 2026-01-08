@@ -17,7 +17,7 @@ const Projects = () => {
       description: "Built a modern news web application using React.js and NewsAPI to fetch real-time headlines across categories like Technology, Sports, and Business.",
       tech: ["React.js", "Bootstrap", "REST API"],
       image: "/images/newsninja.png", 
-      liveLink: "https://github.com/MadhavAgrawal06/NewsNinja-React", 
+      liveLink: "https://newsninja-app.netlify.app/", 
       codeLink: "https://github.com/MadhavAgrawal06/NewsNinja-React"  
     },
     {
