@@ -5,8 +5,8 @@ const Projects = () => {
     {
       id: 1,
       title: "Student Management System",
-      description: "Full-stack CRUD app using a Spring Boot REST API and MySQL to manage student records, integrated with a responsive React.js UI",
-      tech: ["Java", "Spring Boot", "React.js", "JavaScript", "MySQL", "JDBC"],
+      description: "A full-stack CRUD application built with Spring Boot REST APIs and MySQL to manage student records, integrated with a responsive React.js user interface.",
+      tech: ["Java", "Spring Boot", "React.js", "Spring Data JPA", "MySQL", "REST API"],
       image: "/images/sms.png",
       liveLink: "https://fullstack-studentdb-madhav.netlify.app/",
       codeLink: "https://github.com/MadhavAgrawal06/Student-Management-System-Backend"

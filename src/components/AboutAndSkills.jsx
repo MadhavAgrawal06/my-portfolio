@@ -26,13 +26,13 @@ const AboutAndSkills = () => {
             <span style={{color:'#64ffda'}}></span> About Me
           </h3>
           <p className="text-secondary" style={{ lineHeight: '1.7' }}>
-            I am a Full Stack Developer specializing in enterprise-grade applications using Java, Spring Boot, and React.js.
+            I am a fresher Full Stack Developer with hands-on experience in building web applications using Java, Spring Boot, and React.js
           </p>
           <p className="text-secondary  " style={{ lineHeight: '1.7' }}>
-            I bridge the gap between robust backend logic and intuitive frontends. With expertise in MySQL, JDBC, and REST APIs, I focus on building secure, scalable systems and writing clean, maintainable code rooted in OOP principles. I am dedicated to solving complex architectural challenges through the full development lifecycle.
+            I enjoy working across both frontend and backend development, creating responsive user interfaces with React, HTML, CSS, and Bootstrap, and developing REST APIs using Spring Boot, Spring Data JPA, JDBC, and MySQL. I focus on writing clean, maintainable code based on strong OOP principles
           </p>
           <p className="text-secondary" style={{ lineHeight: '1.7' }}>
-            As a fresher, I’m eager to learn from experienced developers, contribute to team-driven projects, and grow into a well-rounded software engineer in a professional environment.
+             As a fresher, I am eager to learn from experienced developers, contribute to team-based projects, and continuously improve my skills while building secure and scalable applications in a professional environment.
           </p>
         </div>
 
@@ -77,8 +77,9 @@ const AboutAndSkills = () => {
                    <div className="d-flex flex-wrap gap-2">
                       <span style={tagStyle}>Spring Boot  <img width="17px" height="17px" src="https://img.icons8.com/officel/80/spring-logo.png" alt="spring-logo"/></span>
                       <span style={tagStyle}>JDBC <img width="17px" height="17px" src="https://img.icons8.com/officel/80/data-configuration.png" alt="data-configuration"/></span>
+                      <span style={tagStyle}>Spring Data JPA (Hibernate)  <img width="17px" height="17px" src="https://img.icons8.com/officel/80/data-configuration.png" alt="data-configuration"/></span>
                       <span style={tagStyle}>REST APIs 🌐</span>
-                      <span style={tagStyle}>MySQL  <i class="devicon-mysql-original colored"></i> </span>
+                      <span style={tagStyle}>MySQL  <i class="devicon-mysql-original colored"></i> </span>    
                    </div>
                 </div>
               </div>
@@ -93,6 +94,7 @@ const AboutAndSkills = () => {
                       <span style={tagStyle}>IntelliJ <i class="devicon-intellij-plain colored"></i></span>
                       <span style={tagStyle}>Netlify <i class="devicon-netlify-plain colored"></i></span>
                       <span style={tagStyle}>VS Code <i class="devicon-vscode-plain colored"></i></span>
+                      <span style={tagStyle}>AWS Cloud (Basics)  <i class="devicon-amazonwebservices-plain-wordmark colored"></i></span>
                    </div>
                 </div>
               </div>

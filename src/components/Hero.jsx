@@ -21,7 +21,7 @@ const Hero = () => {
           
           <div className="d-flex gap-1">
             <a 
-              href="https://drive.google.com/file/d/1yyPK95xfaM7f5z4S5gySQuHmM8foHzpA/view?usp=drive_link" 
+              href="https://drive.google.com/file/d/1MYsPBPCJCMMQ12bWc51uXMtPfHip8tdu/view?usp=sharing" 
               target="_blank" 
               rel="noopener noreferrer"
             >
