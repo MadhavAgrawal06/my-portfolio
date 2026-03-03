@@ -104,7 +104,7 @@ const EducationWork = () => {
          </div>
 
          <div className="row justify-content-center mt-4">
-            <div className="col-lg-10">
+            <div className="col-lg-6">
                 <div className="text-center p-4" style={{ 
                     backgroundColor: 'rgba(17, 34, 64, 0.5)',
                     border: '1px solid #233554',
@@ -113,46 +113,64 @@ const EducationWork = () => {
                     <h4 className="text-white mb-4">
                         <span className="fs-4 me-2">📜</span> Certifications
                     </h4>
-                    <div className="d-flex flex-column flex-md-row justify-content-center align-items-center gap-3 gap-md-5 text-secondary">
-                        
-                        <a href="https://drive.google.com/file/d/18pt17Pe8Gk7vzBdW5IoVKtZKLhI3y2Cb/view?usp=sharing" target="_blank" rel="noreferrer" className="text-decoration-none text-secondary hover-cyan">
-                        <div className="d-flex align-items-center">
-                             <span style={{color:'#64ffda', fontSize:'1.2rem'}} className="me-2">▹</span > 
-                             Java Programming - Great Learning
-                             <img className="mx-1"src="/images/resize.png" height="15px" width="15px" alt="" />
-                        </div>
-                        </a>
-                        
-                        <a href="https://www.coursera.org/account/accomplishments/verify/EWZU3PB30WE5" target="_blank" rel="noreferrer" className="text-decoration-none text-secondary hover-cyan">
-                        <div className="d-flex align-items-center">
-                             <span style={{color:'#64ffda', fontSize:'1.2rem'}} className="me-2">▹</span> 
-                             Programming with Javascript - Coursera
-                             <img className="mx-1" src="/images/resize.png" height="15px" width="15px" alt="" />
-                        </div>
-                        </a>
+                  <div className="d-flex flex-column justify-content-center align-items-start gap-3 text-secondary">
 
+    <a href="https://drive.google.com/file/d/18pt17Pe8Gk7vzBdW5IoVKtZKLhI3y2Cb/view?usp=sharing"
+        target="_blank"
+        rel="noreferrer"
+        className="text-decoration-none text-secondary hover-cyan">
+        <div className="d-flex align-items-center">
+            <span style={{ color: '#64ffda', fontSize: '1.2rem' }} className="me-2">▹</span>
+            Java Programming - Great Learning
+            <img className="mx-1" src="/images/resize.png" height="15px" width="15px" alt="" />
+        </div>
+    </a>
 
-                    </div>
-                        <div className="d-flex flex-column flex-md-row justify-content-center align-items-center gap-3 gap-md-5 text-secondary mr-6">
-                        
-                        <a href="https://drive.google.com/file/d/1cjy8hNvJEU0cCWYKgiA1OMHDZjhzpIza/view?usp=drive_link" target="_blank" rel="noreferrer" className="text-decoration-none text-secondary hover-cyan">
-                        <div className="d-flex align-items-center">
-                             <span style={{color:'#64ffda', fontSize:'1.2rem'}} className="me-2">▹</span> 
-                             SQLite Made Easy - Udemy
-                             <img className="mx-1"src="/images/resize.png" height="15px" width="15px" alt="" />
-                        </div>
-                        </a>
-                        
-                        <a href="https://drive.google.com/file/d/1vGZc1MikZkB8QAdEWK9Q-HguiOGGtLD2/view?usp=sharing" target="_blank" rel="noreferrer" className="text-decoration-none text-secondary hover-cyan">
-                        <div className="d-flex align-items-center">
-                             <span style={{color:'#64ffda', fontSize:'1.2rem'}} className="me-2">▹</span> 
-                             Free AWS Course - Intellipaat
-                             <img className="mx-1"src="/images/resize.png" height="15px" width="15px" alt="" />
-                        </div>
-                        </a>
+    <a href="https://www.coursera.org/account/accomplishments/verify/EWZU3PB30WE5"
+        target="_blank"
+        rel="noreferrer"
+        className="text-decoration-none text-secondary hover-cyan">
+        <div className="d-flex align-items-center">
+            <span style={{ color: '#64ffda', fontSize: '1.2rem' }} className="me-2">▹</span>
+            Programming with Javascript - Coursera
+            <img className="mx-1" src="/images/resize.png" height="15px" width="15px" alt="" />
+        </div>
+    </a>
 
+    <a href="https://drive.google.com/file/d/1cjy8hNvJEU0cCWYKgiA1OMHDZjhzpIza/view?usp=drive_link"
+        target="_blank"
+        rel="noreferrer"
+        className="text-decoration-none text-secondary hover-cyan">
+        <div className="d-flex align-items-center">
+            <span style={{ color: '#64ffda', fontSize: '1.2rem' }} className="me-2">▹</span>
+            SQLite Made Easy - Udemy
+            <img className="mx-1" src="/images/resize.png" height="15px" width="15px" alt="" />
+        </div>
+    </a>
 
-                    </div>
+    <a href="https://drive.google.com/file/d/1vGZc1MikZkB8QAdEWK9Q-HguiOGGtLD2/view?usp=sharing"
+        target="_blank"
+        rel="noreferrer"
+        className="text-decoration-none text-secondary hover-cyan">
+        <div className="d-flex align-items-center">
+            <span style={{ color: '#64ffda', fontSize: '1.2rem' }} className="me-2">▹</span>
+            Free AWS Course - Intellipaat
+            <img className="mx-1" src="/images/resize.png" height="15px" width="15px" alt="" />
+        </div>
+    </a>
+
+    <a href="https://drive.google.com/file/d/1kYVuYTHVQg1_Zphdop6ui5lySWSLJiXi/view?usp=sharing"
+        target="_blank"
+        rel="noreferrer"
+        className="text-decoration-none text-secondary hover-cyan">
+        <div className="d-flex align-items-center">
+            <span style={{ color: '#64ffda', fontSize: '1.2rem' }} className="me-2">▹</span>
+            Fundamentals of Gen AI - Cognizant
+            <img className="mx-1" src="/images/resize.png" height="15px" width="15px" alt="" />
+        </div>
+    </a>
+
+</div>
                 </div>
             </div>
          </div>
